@@ -1,4 +1,4 @@
-# Almabetter-Hypothesis-Testing-A-B-Testing
+# Almabetter-Hypothesis-Testing-A/B-Testing
 
 A/B testing, also known as split testing, is a commonly used method in hypothesis testing to compare the effectiveness of two different versions of a web page, ad, or other digital content. The goal of A/B testing is to identify which version of the content leads to better outcomes, such as higher click-through rates, more conversions, or increased sales.
 
